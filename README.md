@@ -4,3 +4,6 @@ It is not intended for production grade.
 The DB root password is left unmasked.
 It serves a reference for developers.
 
+##### Sources:
+https://phoenixnap.com/kb/mysql-docker-container
+https://hub.docker.com/_/mysql
