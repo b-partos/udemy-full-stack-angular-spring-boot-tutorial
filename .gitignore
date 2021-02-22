@@ -1,3 +1,5 @@
-# MySQL data files
-container-files/mysql-data
+# Docker parameters
+script_parameters
+
+
 
