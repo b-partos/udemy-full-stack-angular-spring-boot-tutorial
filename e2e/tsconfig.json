@@ -8,6 +8,8 @@
     "types": [
       "jasmine",
       "node"
-    ]
+    ],
+    "strictTemplates":true
+
   }
 }
